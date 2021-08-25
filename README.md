@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Farhan Audianto
+## 👋 Hi, I’m Yusron
 
 - 👀 I’m interested in Software Development and Deep Learning
 - ⚡ I’m currently learning DevOps and Deep Learning
