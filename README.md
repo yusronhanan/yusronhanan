@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Yusron
 
-- 👀 I’m interested in Software Development and Deep Learning
-- ⚡ I’m currently learning DevOps and Deep Learning
+👀 I’m interested in Software Development and Deep Learning
+⚡ I’m currently learning DevOps and Deep Learning
 
 ### Connect with me:
 
