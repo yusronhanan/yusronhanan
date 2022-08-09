@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Yusron
 
-- 👀 I’m interested in Software Development and Deep Learning
-- ⚡ I’m currently learning DevOps and Deep Learning
+- 👀 Currently I'm enjoying myself to become fullstack developer
+- I'm talking a lot in JS (TS included), Go, and Dart
 
 ### Connect with me:
 
